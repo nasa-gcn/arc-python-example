@@ -4,6 +4,10 @@ arc-python-example
 @http
 get /
 
+@plugins
+missionCloudPlatform
+noStaticBucket
+
 @aws
 runtime python3.9
 region us-east-1
