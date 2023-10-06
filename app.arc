@@ -5,6 +5,8 @@ arc-python-example
 get /
 
 @aws
-# profile default
-region us-west-2
+runtime python3.9
+region us-east-1
 architecture arm64
+memory 256
+timeout 30
