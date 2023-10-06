@@ -1,0 +1,11 @@
+{
+  "name": "arc-python-example",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.14.2"
+  }
+}
