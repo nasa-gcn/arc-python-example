@@ -1,6 +1,6 @@
 import json
 
-import .foo
+from . import foo
 
 
 def handler(event, context):
