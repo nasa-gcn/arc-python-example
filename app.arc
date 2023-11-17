@@ -5,7 +5,7 @@ arc-python-example
 get /
 
 @aws
-runtime python3.9
+runtime python3.11
 region us-east-1
 architecture arm64
 memory 256
